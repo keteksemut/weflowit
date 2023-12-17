@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{_img:{}}],fetch:void 0,mutations:[["step\u002FsetColor","yellow"],["layout\u002FsetFooterActive",false]]});
